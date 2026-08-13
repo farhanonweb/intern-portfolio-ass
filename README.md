@@ -27,7 +27,7 @@ git log
 
 Connect your local repository to the GitHub repository.
 adding online github repo link:
-git remote add origin https://github.com/AbidShaikh86/intern-portfolio.git
+git remote add origin https://github.com/farhanonweb/intern-portfolio-ass.git
 
 Create a new branch called feature-update and switch to it.
 git checkout -b feature-update git switch -c feature-update
